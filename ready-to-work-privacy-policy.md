@@ -1,100 +1,39 @@
-Effective Date: May 2026
+Privacy Policy
+Effective Date: May 17, 2026
 
-Ready To Work values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Ready To Work mobile application and related services.
+Ready To Work values your privacy. This policy explains our practices regarding the collection, use, and disclosure of your information. We do not track you across third-party apps or websites, and we do not sell your data.
 
-1. Information We Collect
+1. Information Collection and Use
+We collect information strictly to provide and improve App Functionality. This includes:
 
-We may collect the following information when you use the application:
+Personal identifiers: Name, email address, and phone number for account authentication.
 
-Personal Information
-Full name
-Email address
-Phone number
-Profile information
-Identity verification information
-Employment & Job Information
-Job applications
-Work history
-Check-in and check-out activity
-Job completion status
-Employer and employee communication data
-Payment Information
+Photos/Videos: Used solely for profile customization and job-related documentation within the app.
 
-Payments are securely processed through Stripe. We do not store your complete payment card information on our servers.
+Employment Data: Work history and check-in activity to facilitate the employer-employee connection.
 
-Device & Usage Information
-Device type
-Operating system
-App usage activity
-IP address
-Crash logs and analytics
-2. How We Use Your Information
+2. No Data Tracking
+We do not use your data for tracking purposes. Any data collected (including Email and Photos) is used strictly for App Functionality. We do not link this data with third-party data for advertising or share it with data brokers.
 
-We use collected information to:
+3. Account Deletion (Right to be Forgotten)
+Ready To Work provides a direct and easy way to delete your account and associated data.
 
-Create and manage user accounts
-Connect employers and employees
-Process payments securely
-Verify user identities
-Manage job applications and assignments
-Enable real-time communication
-Track work activity and completion
-Improve app performance and security
-Provide customer support
-3. Information Sharing
+How to Delete: Navigate to Profile > Profile Info > Delete Account.
 
-We do not sell your personal information.
+Effect: Upon initiation, your personal profile, identification data, and account credentials will be permanently removed from our active databases in compliance with Apple’s 5.1.1(v) guideline.
 
-We may share information with:
+4. Third-Party Service Providers
+We use trusted partners to ensure app performance:
 
-Employers and employees using the platform
-Payment providers such as Stripe
-Service providers assisting app operations
-Legal authorities if required by law
-4. Data Security
+Stripe: For secure payment processing.
 
-We implement reasonable security measures to protect your personal information from unauthorized access, loss, misuse, or disclosure.
+Firebase: For secure authentication, real-time messaging, and crash reporting.
 
-However, no internet-based platform can guarantee complete security.
+Google/Apple Sign-In: To provide secure, one-tap access to your account.
 
-5. User Responsibilities
+5. Data Security & Retention
+We implement industry-standard encryption to protect your data. We retain information only as long as your account is active or as needed to provide you with services.
 
-Users are responsible for maintaining the confidentiality of their account credentials and ensuring information submitted through the platform is accurate.
-
-6. Third-Party Services
-
-Ready To Work may use third-party services including:
-
-Stripe for payment processing
-Firebase or similar services for authentication, notifications, analytics, and messaging
-
-These third-party providers may collect information according to their own privacy policies.
-
-7. Data Retention
-
-We retain user information only as long as necessary to provide services, comply with legal obligations, resolve disputes, and enforce agreements.
-
-8. Children’s Privacy
-
-Ready To Work is not intended for users under the age of 18. We do not knowingly collect personal information from children.
-
-9. Your Rights
-
-Depending on your region, you may have rights to:
-
-Access your personal data
-Correct inaccurate information
-Request account deletion
-Request removal of personal data
-
-To request account or data deletion, contact us through the support channel.
-
-10. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Changes will be posted within the application or updated on this page.
-
-11. Contact Us
-
-If you have questions regarding this Privacy Policy, please contact us:
-
+6. Contact Us
+For any questions regarding your privacy or data rights, please contact:
 Email: Hollyblair881@gmail.com
